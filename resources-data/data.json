@@ -1,5 +1,23 @@
 {
-  "category name": [
+  "books": [
+    {
+      "name": "The Tech Resume Inside Out",
+      "link": "https://thetechresume.com",
+      "description": "The Tech Resume Inside Out is a book by Gergely Orosz which talks about the hiring process for tech companies, how to write a strong Engineerig Resume and tips how to succeed at interviewing at tech companies.",
+      "owner": "Gergerly Orosz",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "date of submission"
+    },
+    {
+      "name": "System Design Interview - An Insider's guide",
+      "link": "https://bytebytego.com/",
+      "description": "The System Design series is a series of books authored primarily by Alex Xu focusing on preparing readers for the System Design interview by taking readers through popular problems, how to think about their design and then designing them in an interview setting",
+      "owner": "Alex Xu",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "date of submission"
+    }
+  ],
+  "people": [
     {
       "name": "resource name",
       "link": "resource link",
@@ -17,7 +35,7 @@
       "submitted_on": "date of submission"
     }
   ],
-  "category name 2": [
+  "repos": [
     {
       "name": "resource name",
       "link": "resource link",
