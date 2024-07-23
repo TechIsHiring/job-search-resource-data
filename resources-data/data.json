@@ -58,19 +58,37 @@
   ],
   "repos": [
     {
-      "name": "resource name",
-      "link": "resource link",
-      "description": "resource description",
-      "owner": "resource owner name (nullable)",
+      "name": "The Algorithms",
+      "link": "https://github.com/TheAlgorithms",
+      "description": "The Algorithms is a GitHub repo that is a collection of Data Structures & Algorithms written in several programming languages from popular languages to more obscure ones as well as more common data structures to the more obscure and difficult to write",
+      "owner": "Yangshun Tay",
       "submitted_by": "submission owner name (link to github if available)",
       "submitted_on": "date of submission"
     },
     {
-      "name": "resource name",
-      "link": "resource link",
-      "description": "resource description",
-      "owner": "resource owner name (nullable)",
-      "submitted_by": "submission owner name (link to github if available)",
+      "name": "System Design Primer",
+      "link": "https://github.com/donnemartin/system-design-primer",
+      "description": "System Design Primer is a repo that focuses on learning the tools needed to ace system design interviews, teaching you the tools and technologies to build large-scale systems",
+      "owner": "Donne Martin",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "date of submission"
+    }
+  ],
+  "communities": [
+    {
+      "name": "Virtual Coffee IO",
+      "link": "https://virtualcoffee.io/",
+      "description": "Virtual Coffee is an online community run by Bekah Weigel known for holding virtual coffees twice every week, has extremely supportive members and events to help community members with their job search",
+      "owner": "Bekah Weigel",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "date of submission"
+    },
+    {
+      "name": "System Design Fight Club",
+      "link": "https://systemdesignfightclub.com/",
+      "description": "System Design Fight Club is a community that started as a YouTube channel to help people learn how to ace system design interviews and now is a a community on Discord",
+      "owner": "YubiDesu",
+      "submitted_by": "Chad Stewart",
       "submitted_on": "date of submission"
     }
   ]
