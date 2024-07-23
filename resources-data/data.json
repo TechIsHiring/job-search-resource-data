@@ -15,23 +15,44 @@
       "owner": "Alex Xu",
       "submitted_by": "Chad Stewart",
       "submitted_on": "date of submission"
+    },
+    {
+      "name": "Cracking the Coding Interview",
+      "link": "https://www.crackingthecodinginterview.com/",
+      "description": "Cracking the Coding Interview is the defacto standard for practicing for coding interviews, starting with teaching the key Data Structures & Algorithms you'll need to be successful in the interview process but also give you practice problems to leverage the skills",
+      "owner": "Alex Xu",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "date of submission"
+    },
+    {
+      "name": "Tech Interview Handbook",
+      "link": "https://www.techinterviewhandbook.org/",
+      "description": "The Tech Interview Handbook is an open source book for practicing for tech interviews, including advice on how to prepare for interview, questions and links to other resources to prepare for more role-specific interviews",
+      "owner": "Yangshun Tay",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "date of submission"
     }
   ],
   "people": [
     {
-      "name": "resource name",
-      "link": "resource link",
-      "description": "resource description",
-      "owner": "resource owner name (nullable)",
-      "submitted_by": "submission owner name (link to github if available)",
+      "name": "Danny Thompson",
+      "link": "https://x.com/DThompsonDev",
+      "description": "Danny Thompson has been helping new Software Engineers break into tech for several years now by sharing his own inspriing story as well as consistently giving practical tips to getting hired, Danny is someone to follow for tips to improve your job hunt",
+      "submitted_by": "Chad Stewart",
       "submitted_on": "date of submission"
     },
     {
-      "name": "resource name",
-      "link": "resource link",
-      "description": "resource description",
-      "owner": "resource owner name (nullable)",
-      "submitted_by": "submission owner name (link to github if available)",
+      "name": "Taylor Desseyn",
+      "link": "https://www.linkedin.com/in/taylordesseyn/",
+      "description": "Taylor Desseyn is a recruiter who has consistently helped job searchers in the tech industry find their next role through this content such as his LinkedIn videos where he brings someone on to talk about hiring and the job market",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "date of submission"
+    },
+    {
+      "name": "Anthony D. Mays",
+      "link": "https://x.com/anthonydmays",
+      "description": "Anthony D. Mays, who was previously a Software Engineer at Google, now helps people find new opportunities in the tech industry, especially those from underrepresented groups through his work with Brillant Black Minds and his own organization Morgan Latimer Consulting",
+      "submitted_by": "Chad Stewart",
       "submitted_on": "date of submission"
     }
   ],
