@@ -1,0 +1,38 @@
+{
+  "category name": [
+    {
+      "name": "resource name",
+      "link": "resource link",
+      "description": "resource description",
+      "owner": "resource owner name (nullable)",
+      "submitted_by": "submission owner name (link to github if available)",
+      "submitted_on": "date of submission"
+    },
+    {
+      "name": "resource name",
+      "link": "resource link",
+      "description": "resource description",
+      "owner": "resource owner name (nullable)",
+      "submitted_by": "submission owner name (link to github if available)",
+      "submitted_on": "date of submission"
+    }
+  ],
+  "category name 2": [
+    {
+      "name": "resource name",
+      "link": "resource link",
+      "description": "resource description",
+      "owner": "resource owner name (nullable)",
+      "submitted_by": "submission owner name (link to github if available)",
+      "submitted_on": "date of submission"
+    },
+    {
+      "name": "resource name",
+      "link": "resource link",
+      "description": "resource description",
+      "owner": "resource owner name (nullable)",
+      "submitted_by": "submission owner name (link to github if available)",
+      "submitted_on": "date of submission"
+    }
+  ]
+}
