@@ -75,7 +75,7 @@
   "repos": [
     {
       "name": "The Algorithms",
-      "outline": "Massive open source repo of copmleted solutions of various Data Structures & Algorithms in various programming languages",
+      "outline": "Massive open source repo of completed solutions of various Data Structures & Algorithms in various programming languages",
       "link": "https://github.com/TheAlgorithms",
       "description": "The Algorithms is a GitHub repo that is a collection of Data Structures & Algorithms written in several programming languages from popular languages to more obscure ones as well as more common data structures to the more obscure and difficult to write",
       "owner": "Yangshun Tay",
