@@ -2,6 +2,7 @@
   "books": [
     {
       "name": "The Tech Resume Inside Out",
+      "outline": "A book detailing how to write resumes for technical professionals",
       "link": "https://thetechresume.com",
       "description": "The Tech Resume Inside Out is a book by Gergely Orosz which talks about the hiring process for tech companies, how to write a strong Engineering Resume and tips how to succeed at interviewing at tech companies.",
       "owner": "Gergerly Orosz",
@@ -10,6 +11,7 @@
     },
     {
       "name": "System Design Interview - An Insider's guide",
+      "outline": "Book series that teaches how to successfully pass a System Design Interview",
       "link": "https://bytebytego.com/",
       "description": "The System Design series is a series of books authored primarily by Alex Xu focusing on preparing readers for the System Design interview by taking readers through popular problems, how to think about their design and then designing them in an interview setting",
       "owner": "Alex Xu",
@@ -18,6 +20,7 @@
     },
     {
       "name": "Cracking the Coding Interview",
+      "outline": "The book for learning how to pass the interview process at Big Tech Companies",
       "link": "https://www.crackingthecodinginterview.com/",
       "description": "Cracking the Coding Interview is the defacto standard for practicing for coding interviews, starting with teaching the key Data Structures & Algorithms you'll need to be successful in the interview process but also give you practice problems to leverage the skills",
       "owner": "Alex Xu",
@@ -26,6 +29,7 @@
     },
     {
       "name": "Tech Interview Handbook",
+      "outline": "A continuously updated open source book on passing technical interviews",
       "link": "https://www.techinterviewhandbook.org/",
       "description": "The Tech Interview Handbook is an open source book for practicing for tech interviews, including advice on how to prepare for interview, questions and links to other resources to prepare for more role-specific interviews",
       "owner": "Yangshun Tay",
@@ -36,6 +40,7 @@
   "people": [
     {
       "name": "Danny Thompson",
+      "outline": "Current Director of Technology at ThisDotLabs, well known for teaching people, especially juniors how to break into tech",
       "link": "https://x.com/DThompsonDev",
       "description": "Danny Thompson has been helping new Software Engineers break into tech for several years now by sharing his own inspiring story as well as consistently giving practical tips to getting hired, Danny is someone to follow for tips to improve your job hunt",
       "submitted_by": "Chad Stewart",
@@ -43,6 +48,7 @@
     },
     {
       "name": "Taylor Desseyn",
+      "outline": "A Technical Recruiter known for creating content around getting the next tech job",
       "link": "https://www.linkedin.com/in/taylordesseyn/",
       "description": "Taylor Desseyn is a recruiter who has consistently helped job searchers in the tech industry find their next role through this content such as his LinkedIn videos where he brings someone on to talk about hiring and the job market",
       "submitted_by": "Chad Stewart",
@@ -50,6 +56,7 @@
     },
     {
       "name": "Anthony D. Mays",
+      "outline": "Former Senior Software Engineer at Google, now focuses on others, especially underrepresented persons break into Tech",
       "link": "https://x.com/anthonydmays",
       "description": "Anthony D. Mays, who was previously a Software Engineer at Google, now helps people find new opportunities in the tech industry, especially those from underrepresented groups through his work with Brilliant Black Minds and his own organization Morgan Latimer Consulting",
       "submitted_by": "Chad Stewart",
@@ -59,6 +66,7 @@
   "repos": [
     {
       "name": "The Algorithms",
+      "outline": "Massive open source repo of copmleted solutions of various Data Structures & Algorithms in various programming languages",
       "link": "https://github.com/TheAlgorithms",
       "description": "The Algorithms is a GitHub repo that is a collection of Data Structures & Algorithms written in several programming languages from popular languages to more obscure ones as well as more common data structures to the more obscure and difficult to write",
       "owner": "Yangshun Tay",
@@ -67,6 +75,7 @@
     },
     {
       "name": "System Design Primer",
+      "outline": "Open source resource for learning the basics of System Design, specifically to pass System Design Interviews",
       "link": "https://github.com/donnemartin/system-design-primer",
       "description": "System Design Primer is a repo that focuses on learning the tools needed to ace system design interviews, teaching you the tools and technologies to build large-scale systems",
       "owner": "Donne Martin",
@@ -77,6 +86,7 @@
   "communities": [
     {
       "name": "Virtual Coffee IO",
+      "outline": "Community run by Bekah Weigel that holds virtual coffee sessions every Tuesday & Thursday",
       "link": "https://virtualcoffee.io/",
       "description": "Virtual Coffee is an online community run by Bekah Weigel known for holding virtual coffees twice every week, has extremely supportive members and events to help community members with their job search",
       "owner": "Bekah Weigel",
@@ -85,6 +95,7 @@
     },
     {
       "name": "System Design Fight Club",
+      "outline": "Community of Engineers helping each other to learn System Design, primarily to pass System Design Interviews",
       "link": "https://systemdesignfightclub.com/",
       "description": "System Design Fight Club is a community that started as a YouTube channel to help people learn how to ace system design interviews and now is a a community on Discord",
       "owner": "YubiDesu",
