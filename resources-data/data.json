@@ -1,4 +1,42 @@
 {
+  "job_boards": [
+    {
+      "name": "Wellfound (formerlly AngelList",
+      "outline": "A job board focusing on start ups looking to hire talent with a focus on technical talent",
+      "link": "https://wellfound.com",
+      "description": "Previously known as AngelList Jobs, Wellfound is the premiere site for working with start ups in various stages of funding and growth. Several famous companies advertised their positions here in their infancy such like Uber",
+      "owner": "AngelList",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Thu, 08 Aug 2024 14:54:38 GMT"
+    },
+    {
+      "name": "Work at a Start Up",
+      "outline": "Y Combinator's job board for current YC companies looking for talent",
+      "link": "https://workatastartup.com",
+      "description": "A job board focused solely on companies that have been funded by Y Combinator, allowing users to create a profile based off their experience and reach out directly to the contact for the YC company. This job board isn't associated with the monthly Hacker News job posts.",
+      "owner": "Y Combinator",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Thu, 08 Aug 2024 14:54:38 GMT"
+    },
+    {
+      "name": "HNHiring",
+      "outline": "An app that aggregates jobs from monthly Hacker News job threads",
+      "link": "https://hnhiring.com/",
+      "description": "An app independent of Hacker News that collects and sorts jobs from the monthly Hacker News 'Who is Hiring' threads made by date posted and specific keywords found in the job posts.",
+      "owner": "Jordi Noguera",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Thu, 08 Aug 2024 14:54:38 GMT"
+    },
+    {
+      "name": "Platform Engineering Jobs",
+      "outline": "A job board managed by the Platform Engineering organization",
+      "link": "https://platformengineering.org/jobs",
+      "description": "A job board managed by the Platform Engineering organization focusing on advertising Platform Engineering specific jobs from some of the biggest tech organizations",
+      "owner": "Platform Engineering",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Thu, 08 Aug 2024 14:54:38 GMT"
+    }
+  ],
   "books": [
     {
       "name": "The Tech Resume Inside Out",
