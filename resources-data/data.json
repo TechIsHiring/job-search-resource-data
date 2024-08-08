@@ -35,6 +35,15 @@
       "owner": "Platform Engineering",
       "submitted_by": "Chad Stewart",
       "submitted_on": "Thu, 08 Aug 2024 14:54:38 GMT"
+    },
+    {
+      "name": "levels.fyi Jobs",
+      "outline": "levels.fyi's job board",
+      "link": "https://www.levels.fyi/jobs",
+      "description": "A job board managed by levels.fyi, focusing on software engineering, data science and product management roles, offering transparency on salary ranges for the roles advertised",
+      "owner": "Platform Engineering",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Thu, 08 Aug 2024 14:54:38 GMT"
     }
   ],
   "books": [
@@ -84,6 +93,73 @@
       "submitted_on": "Wed, 31 Jul 2024 14:39:46 GMT"
     }
   ],
+  "communities": [
+    {
+      "name": "Virtual Coffee IO",
+      "outline": "Community run by Bekah Weigel that holds virtual coffee sessions every Tuesday & Thursday",
+      "link": "https://virtualcoffee.io/",
+      "description": "Virtual Coffee is an online community run by Bekah Weigel known for holding virtual coffees twice every week, has extremely supportive members and events to help community members with their job search",
+      "owner": "Bekah Weigel",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Mon, 29 Jul 2024 14:47:40 GMT"
+    },
+    {
+      "name": "System Design Fight Club",
+      "outline": "Community of Engineers helping each other to learn System Design, primarily to pass System Design Interviews",
+      "link": "https://systemdesignfightclub.com/",
+      "description": "System Design Fight Club is a community that started as a YouTube channel to help people learn how to ace system design interviews and now is a a community on Discord",
+      "owner": "YubiDesu",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Mon, 29 Jul 2024 14:47:40 GMT"
+    },
+    {
+      "name": "Taro",
+      "outline": "A paid community that helps Software Engineers grow in their career",
+      "link": "https://www.jointaro.com/",
+      "description": "A paid community that focuses on growing Software Engineers by providing them with information and support to grown in their careers, including navigating the job search process",
+      "owner": "Rahul Pandey, Alex Chiou",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Fri, 02 Aug 2024 16:17:43 GMT"
+    },
+    {
+      "name": "100Devs",
+      "outline": "Community-taught coding agency with a training program",
+      "link": "https://100devs.org/about",
+      "description": "More than just a job search resource, 100Devs is a community for learning how to code, how to network, practice interviewing, improve your resume/linkedin/etc., and how to freelance. The community is global, boasting a Discord server with over 60,000 people. Everyone there is kind, helpful, and supportive.",
+      "owner": "Leon Noel",
+      "submitted_by": "Danielle Andrews",
+      "submitted_on": "Mon, 05 Aug 2024 18:03:50 GMT"
+    }
+  ],
+  "websites": [
+    {
+      "name": "Levels.fyi",
+      "outline": "Web app that shows the payscale for common roles at large tech companies",
+      "link": "https://levels.fyi/",
+      "description": "A web app who primarily brings visibility to tech job levels and the payscale that comes with each role",
+      "owner": "Zaheer Mohiuddin, Zuhayeer Musa",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Mon, 29 Jul 2024 14:47:40 GMT"
+    },
+    {
+      "name": "Interviewing.io",
+      "outline": "Do mock interviews with Software Engineers from Big Tech orgs",
+      "link": "https://interviewing.io/",
+      "description": "A platform that allows interviewees to do mock interviews with Engineers working at Big Tech organizations, simulating interviews such as data structures and algorithms and system design interviews.",
+      "owner": "Aline Lerner",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Mon, 29 Jul 2024 14:47:40 GMT"
+    },
+    {
+      "name": "Pramp",
+      "outline": "Pair with other job seekers, mock interviewing each other to practice technical and behavioral interviews",
+      "link": "https://pramp.com/",
+      "description": "A mock interview platform where two candidates agree to meet each other at a specific date and time, then mock interviews each other and provides feedback based on the interview,",
+      "owner": "Rafi Zikavashvili",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Mon, 29 Jul 2024 14:47:40 GMT"
+    }
+  ],
   "people": [
     {
       "name": "Danny Thompson",
@@ -128,44 +204,6 @@
       "owner": "Donne Martin",
       "submitted_by": "Chad Stewart",
       "submitted_on": "Mon, 29 Jul 2024 14:47:40 GMT"
-    }
-  ],
-  "communities": [
-    {
-      "name": "Virtual Coffee IO",
-      "outline": "Community run by Bekah Weigel that holds virtual coffee sessions every Tuesday & Thursday",
-      "link": "https://virtualcoffee.io/",
-      "description": "Virtual Coffee is an online community run by Bekah Weigel known for holding virtual coffees twice every week, has extremely supportive members and events to help community members with their job search",
-      "owner": "Bekah Weigel",
-      "submitted_by": "Chad Stewart",
-      "submitted_on": "Mon, 29 Jul 2024 14:47:40 GMT"
-    },
-    {
-      "name": "System Design Fight Club",
-      "outline": "Community of Engineers helping each other to learn System Design, primarily to pass System Design Interviews",
-      "link": "https://systemdesignfightclub.com/",
-      "description": "System Design Fight Club is a community that started as a YouTube channel to help people learn how to ace system design interviews and now is a a community on Discord",
-      "owner": "YubiDesu",
-      "submitted_by": "Chad Stewart",
-      "submitted_on": "Mon, 29 Jul 2024 14:47:40 GMT"
-    },
-    {
-      "name": "Taro",
-      "outline": "A paid community that helps Software Engineers grow in their career",
-      "link": "https://www.jointaro.com/",
-      "description": "A paid community that focuses on growing Software Engineers by providing them with information and support to grown in their careers, including navigating the job search process",
-      "owner": "Rahul Pandey, Alex Chiou",
-      "submitted_by": "Chad Stewart",
-      "submitted_on": "Fri, 02 Aug 2024 16:17:43 GMT"
-    },
-    {
-      "name": "100Devs",
-      "outline": "Community-taught coding agency with a training program",
-      "link": "https://100devs.org/about",
-      "description": "More than just a job search resource, 100Devs is a community for learning how to code, how to network, practice interviewing, improve your resume/linkedin/etc., and how to freelance. The community is global, boasting a Discord server with over 60,000 people. Everyone there is kind, helpful, and supportive.",
-      "owner": "Leon Noel",
-      "submitted_by": "Danielle Andrews",
-      "submitted_on": "Mon, 05 Aug 2024 18:03:50 GMT"
     }
   ]
 }
