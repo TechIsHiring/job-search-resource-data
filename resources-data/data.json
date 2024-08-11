@@ -204,6 +204,15 @@
       "owner": "Donne Martin",
       "submitted_by": "Chad Stewart",
       "submitted_on": "Mon, 29 Jul 2024 14:47:40 GMT"
+    },
+    {
+      "name": "Coding Interview University",
+      "outline": "An open source study plan that John Washam made to study for FAANG interviews",
+      "link": "https://github.com/jwasham/coding-interview-university",
+      "description": "An open source repo that serves as a multiple month study guide to pass Data Structures & Algorithm interviews commonly given by Big Tech / FAANG organizations!",
+      "owner": "John Washam",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Sun, 11 Aug 2024 19:49:24 GMT"
     }
   ]
 }
