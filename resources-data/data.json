@@ -158,6 +158,15 @@
       "owner": "Rafi Zikavashvili",
       "submitted_by": "Chad Stewart",
       "submitted_on": "Mon, 29 Jul 2024 14:47:40 GMT"
+    },
+    {
+      "name": "NeetCode.io",
+      "outline": "Practice for Data Structures & Algorithm Interviews with NeetCode's Courses",
+      "link": "https://neetcode.io/",
+      "description": "Built from Navdeep Singh a.k.a. NeetCode's YouTube where they completed Data Structures & Algorithm questions, NeetCode.io codifies the process of learning DSA through courses and guides to teach the concepts necessary to excel in these interviews.",
+      "owner": "Navdeep Singh",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Sat, 17 Aug 2024 17:19:14 GMT"
     }
   ],
   "people": [
