@@ -240,6 +240,15 @@
       "owner": "John Washam",
       "submitted_by": "Chad Stewart",
       "submitted_on": "Sun, 11 Aug 2024 19:49:24 GMT"
+    },
+    {
+      "name": "Hiring without Whiteboards",
+      "outline": "A community maintained list of organizations that are known to not do whiteboarding interviews",
+      "link": "https://github.com/poteto/hiring-without-whiteboards",
+      "description": "A GitHub repo with a list of organizations that do not test their candidates using whiteboarding (system design / DSA) interviews. If a company on this list is shown to do whiteboarding interviews, a PR can be made to remove them from the list.",
+      "owner": "Lauren Tan",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Tue, 20 Aug 2024 14:00:26 GMT"
     }
   ]
 }
