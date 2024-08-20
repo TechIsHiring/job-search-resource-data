@@ -179,7 +179,7 @@
     },
     {
       "name": "NoWhiteboard.org",
-      "outline": "A job board with listings from companies known  not do whiteboarding interviews",
+      "outline": "A job board with listings from companies known not do whiteboarding interviews",
       "link": "https://www.nowhiteboard.org/",
       "description": "A web app that shows job listings from companies that are known to not do whiteboarding interviews to test their candidates. Whiteboarding interviews usually are a System Design or Data Structure & Algorithms interviews.",
       "owner": "Jon Nguyen",
