@@ -178,11 +178,11 @@
       "submitted_on": "Sat, 17 Aug 2024 17:14:04 GMT"
     },
     {
-      "name": "No Whiteboard",
-      "outline": "A job board with listings from companies who do not do whiteboarding / DSA interviews",
+      "name": "NoWhiteboard.org",
+      "outline": "A job board with listings from companies known  not do whiteboarding interviews",
       "link": "https://www.nowhiteboard.org/",
       "description": "A web app that shows job listings from companies that are known to not do whiteboarding interviews to test their candidates. Whiteboarding interviews usually are a System Design or Data Structure & Algorithms interviews.",
-      "owner": "Lauren Tan",
+      "owner": "Jon Nguyen",
       "submitted_by": "Chad Stewart",
       "submitted_on": "Tue, 20 Aug 2024 13:51:46 GMT"
     }
