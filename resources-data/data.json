@@ -53,6 +53,15 @@
       "owner": "Jon Nguyen",
       "submitted_by": "Chad Stewart",
       "submitted_on": "Tue, 20 Aug 2024 13:51:46 GMT"
+    },
+    {
+      "name": "StillHiring.Today",
+      "outline": "Job Board in Notion augmented with data from Keyplay",
+      "link": "https://stillhiring.today/",
+      "description": "Job board that's community sourced, augmented with data from Keyplay, and maintained by Ross Pomerantz.  Free forever.",
+      "owner": "Ross Pomerantz",
+      "submitted_by": "Ryan McGovern",
+      "submitted_on": "Mon, 02 Sep 2024 01:26:13 GMT"
     }
   ],
   "books": [
