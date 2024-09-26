@@ -194,6 +194,15 @@
       "owner": "Yangshun Tay",
       "submitted_by": "Chad Stewart",
       "submitted_on": "Sat, 17 Aug 2024 17:14:04 GMT"
+    },
+    {
+      "name": "Codemia",
+      "outline": "A paid platform to practice for the System Design Interview by providing a large list of practice problems",
+      "link": "https://codemia.io/",
+      "description": "A paid learning platform similar to Leetcode that gives you a list of system design questions that you can practice as well as a community of people to help you learn and practice system design",
+      "owner": "Unknown",
+      "submitted_by": "Chad Stewart",
+      "submitted_on": "Thu, 26 Sep 2024 14:19:34 GMT"
     }
   ],
   "people": [
