@@ -62,6 +62,15 @@
       "owner": "Ross Pomerantz",
       "submitted_by": "Ryan McGovern",
       "submitted_on": "Mon, 02 Sep 2024 01:26:13 GMT"
+    },
+    {
+      "name": "Jobs in Javascript",
+      "outline": "A niche job board for Javascript developers",
+      "link": "https://jobsinjs.com/",
+      "description": "Jobs in JS is a job board focused exclusively on JavaScript ecosystem roles- JavaScript, TypeScript, Node.js and the major frameworks. Free to browse with no account necessary.",
+      "owner": "Yosif",
+      "submitted_by": "Yosif",
+      "submitted_on": "Wed, 12 Aug 2026 17:16:20 GMT"
     }
   ],
   "books": [
@@ -209,8 +218,8 @@
       "outline": "Frontend interview prep with hands-on JavaScript, UI, and DOM practice.",
       "link": "https://frontendatlas.com/coding",
       "description": "FrontendAtlas is a frontend interview prep platform focused on practical coding challenges, especially around JavaScript, UI, and DOM-oriented problems. It can be a useful resource for frontend candidates who want more targeted interview practice alongside broader job search and interview prep tools.",
-      "owner": "Müslüm Yılmaz",
-      "submitted_by": "Müslüm Yılmaz",
+      "owner": "MÃ¼slÃ¼m YÄ±lmaz",
+      "submitted_by": "MÃ¼slÃ¼m YÄ±lmaz",
       "submitted_on": "Thu, 19 Mar 2026 21:21:40 GMT"
     }
   ],
