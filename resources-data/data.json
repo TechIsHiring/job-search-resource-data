@@ -209,9 +209,18 @@
       "outline": "Frontend interview prep with hands-on JavaScript, UI, and DOM practice.",
       "link": "https://frontendatlas.com/coding",
       "description": "FrontendAtlas is a frontend interview prep platform focused on practical coding challenges, especially around JavaScript, UI, and DOM-oriented problems. It can be a useful resource for frontend candidates who want more targeted interview practice alongside broader job search and interview prep tools.",
-      "owner": "Müslüm Yılmaz",
-      "submitted_by": "Müslüm Yılmaz",
+      "owner": "M\u00fcsl\u00fcm Y\u0131lmaz",
+      "submitted_by": "M\u00fcsl\u00fcm Y\u0131lmaz",
       "submitted_on": "Thu, 19 Mar 2026 21:21:40 GMT"
+    },
+    {
+      "name": "ResumeAI",
+      "outline": "Free forever ATS resume checker with an open State of ATS employer dataset",
+      "link": "https://withresumeai.com/",
+      "description": "ResumeAI offers a free forever ATS checker (3 checks/day with no account, 10/day with a free account), an embeddable checker widget, and State of ATS 2026 covering 738 large employers (704 portal-verified) with Workday share at 37.9%.",
+      "owner": "Kayvan Zahiri",
+      "submitted_by": "Kayvan Zahiri",
+      "submitted_on": "Fri, 11 Sep 2026 04:33:32 GMT"
     }
   ],
   "people": [
