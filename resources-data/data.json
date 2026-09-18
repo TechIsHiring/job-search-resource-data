@@ -209,9 +209,18 @@
       "outline": "Frontend interview prep with hands-on JavaScript, UI, and DOM practice.",
       "link": "https://frontendatlas.com/coding",
       "description": "FrontendAtlas is a frontend interview prep platform focused on practical coding challenges, especially around JavaScript, UI, and DOM-oriented problems. It can be a useful resource for frontend candidates who want more targeted interview practice alongside broader job search and interview prep tools.",
-      "owner": "Müslüm Yılmaz",
-      "submitted_by": "Müslüm Yılmaz",
+      "owner": "MÃ¼slÃ¼m YÄ±lmaz",
+      "submitted_by": "MÃ¼slÃ¼m YÄ±lmaz",
       "submitted_on": "Thu, 19 Mar 2026 21:21:40 GMT"
+    },
+    {
+      "name": "NeverApply",
+      "outline": "You sleep, the agent applies.",
+      "link": "https://neverapply.co",
+      "description": "NeverApply is an AI job-search agent. Set role+location; matches jobs, rewrites your resume per posting, auto-applies on career sites/ATS. Freemium Free/Pro/Max. Not a job board; not neverapply.ai.",
+      "owner": "NeverApply",
+      "submitted_by": "Mohammed Sohail",
+      "submitted_on": "Fri, 18 Sep 2026 08:43:31 GMT"
     }
   ],
   "people": [
