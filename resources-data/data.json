@@ -209,9 +209,18 @@
       "outline": "Frontend interview prep with hands-on JavaScript, UI, and DOM practice.",
       "link": "https://frontendatlas.com/coding",
       "description": "FrontendAtlas is a frontend interview prep platform focused on practical coding challenges, especially around JavaScript, UI, and DOM-oriented problems. It can be a useful resource for frontend candidates who want more targeted interview practice alongside broader job search and interview prep tools.",
-      "owner": "Müslüm Yılmaz",
-      "submitted_by": "Müslüm Yılmaz",
+      "owner": "MÃ¼slÃ¼m YÄ±lmaz",
+      "submitted_by": "MÃ¼slÃ¼m YÄ±lmaz",
       "submitted_on": "Thu, 19 Mar 2026 21:21:40 GMT"
+    },
+    {
+      "name": "Job Application Tracker Lite",
+      "outline": "Free Google Sheet for tracking job applications, with a ghosted flag and a dashboard",
+      "link": "https://mohabaha0.gumroad.com/l/job-application-tracker-lite",
+      "description": "Free Google Sheets/Excel tracker for job applications. You enter the company, role, date and status; it counts days since your last update, flags applications Ghosted after 21 days with no reply, and shows your response rate, interview rate and weekly volume on a dashboard. There's no script or sign-up. Made by the submitter.",
+      "owner": "Mohamed Zaghloul",
+      "submitted_by": "Mohamed Zaghloul",
+      "submitted_on": "Tue, 20 Oct 2026 08:26:50 GMT"
     }
   ],
   "people": [
