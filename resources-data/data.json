@@ -209,9 +209,18 @@
       "outline": "Frontend interview prep with hands-on JavaScript, UI, and DOM practice.",
       "link": "https://frontendatlas.com/coding",
       "description": "FrontendAtlas is a frontend interview prep platform focused on practical coding challenges, especially around JavaScript, UI, and DOM-oriented problems. It can be a useful resource for frontend candidates who want more targeted interview practice alongside broader job search and interview prep tools.",
-      "owner": "Müslüm Yılmaz",
-      "submitted_by": "Müslüm Yılmaz",
+      "owner": "MÃ¼slÃ¼m YÄ±lmaz",
+      "submitted_by": "MÃ¼slÃ¼m YÄ±lmaz",
       "submitted_on": "Thu, 19 Mar 2026 21:21:40 GMT"
+    },
+    {
+      "name": "JobFast",
+      "outline": "Prepare a tailored application from your resume and a job description.",
+      "link": "https://jobfast.app",
+      "description": "AI-assisted web app for preparing individual job applications. Upload your resume and a job description to get match insights, a tailored resume draft, a cover-letter draft and interview prep. Review generated materials for accuracy before use. Free plan: one analysis per month, no credit card required. Paid plans available. Submitted by JobFast, owned by Grossmar Digital Ventures Inc.",
+      "owner": "JobFast (jobfast.app)",
+      "submitted_by": "JobFast",
+      "submitted_on": "Sun, 25 Oct 2026 17:26:49 GMT"
     }
   ],
   "people": [
