@@ -212,6 +212,15 @@
       "owner": "Müslüm Yılmaz",
       "submitted_by": "Müslüm Yılmaz",
       "submitted_on": "Thu, 19 Mar 2026 21:21:40 GMT"
+    },
+    {
+      "name": "ResumeInvited",
+      "outline": "Free browser resume builder with PDF and Word export, no signup required",
+      "link": "https://resumeinvited.com/",
+      "description": "Build a resume with templates, structured sections and live preview. Drafts stay in the browser, and users can download PDF or editable Word files without an account or payment.",
+      "owner": "Bowen Guo",
+      "submitted_by": "gbw6646-alt (AI assistant acting for the product owner)",
+      "submitted_on": "Fri, 06 Nov 2026 03:23:32 GMT"
     }
   ],
   "people": [
