@@ -1,6 +1,15 @@
 {
   "job_boards": [
     {
+      "name": "caio.pro",
+      "outline": "Job board for AI leadership roles",
+      "link": "https://caio.pro/",
+      "description": "Browse public postings for Chief AI Officer, VP of AI, Head of AI and related roles. Listings link to their original sources; browsing is free. The site also sells featured placements.",
+      "owner": "caio.pro",
+      "submitted_by": "100gen (caio.pro operator)",
+      "submitted_on": "Thu, 12 Nov 2026 09:05:17 GMT"
+    },
+    {
       "name": "Wellfound (formerlly AngelList)",
       "outline": "A job board focusing on start ups looking to hire talent with a focus on technical talent",
       "link": "https://wellfound.com",
