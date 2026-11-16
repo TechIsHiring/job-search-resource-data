@@ -109,6 +109,15 @@
       "owner": "@ChaiWithJai",
       "submitted_by": "Jai Bhagat",
       "submitted_on": "Wed, 31 Jul 2024 14:39:46 GMT"
+    },
+    {
+      "name": "Job Search Command Center",
+      "outline": "A $19 application-tracking workbook and interview/negotiation playbook.",
+      "link": "https://rotterfly0.gumroad.com/l/xcxzm",
+      "description": "An 8-tab .xlsx workbook for applications, contacts, interview stories, offer comparisons and weekly reviews, paired with a 22-page PDF playbook with 27 message scripts. $19 one-time purchase. Tested in LibreOffice; native Excel and Google Sheets behavior remains unverified. Follow-up dates appear in the workbook, not as email or push alerts. General career guidance, not a job placement service.",
+      "owner": "Rotterfly",
+      "submitted_by": "Rotterfly",
+      "submitted_on": "Mon, 16 Nov 2026 09:41:00 GMT"
     }
   ],
   "communities": [
@@ -209,8 +218,8 @@
       "outline": "Frontend interview prep with hands-on JavaScript, UI, and DOM practice.",
       "link": "https://frontendatlas.com/coding",
       "description": "FrontendAtlas is a frontend interview prep platform focused on practical coding challenges, especially around JavaScript, UI, and DOM-oriented problems. It can be a useful resource for frontend candidates who want more targeted interview practice alongside broader job search and interview prep tools.",
-      "owner": "Müslüm Yılmaz",
-      "submitted_by": "Müslüm Yılmaz",
+      "owner": "MÃ¼slÃ¼m YÄ±lmaz",
+      "submitted_by": "MÃ¼slÃ¼m YÄ±lmaz",
       "submitted_on": "Thu, 19 Mar 2026 21:21:40 GMT"
     }
   ],
