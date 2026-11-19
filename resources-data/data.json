@@ -209,9 +209,18 @@
       "outline": "Frontend interview prep with hands-on JavaScript, UI, and DOM practice.",
       "link": "https://frontendatlas.com/coding",
       "description": "FrontendAtlas is a frontend interview prep platform focused on practical coding challenges, especially around JavaScript, UI, and DOM-oriented problems. It can be a useful resource for frontend candidates who want more targeted interview practice alongside broader job search and interview prep tools.",
-      "owner": "Müslüm Yılmaz",
-      "submitted_by": "Müslüm Yılmaz",
+      "owner": "MÃ¼slÃ¼m YÄ±lmaz",
+      "submitted_by": "MÃ¼slÃ¼m YÄ±lmaz",
       "submitted_on": "Thu, 19 Mar 2026 21:21:40 GMT"
+    },
+    {
+      "name": "ApplyJobs",
+      "outline": "Paid Chrome extension for repeated application-form entry on Greenhouse, Lever and Ashby.",
+      "link": "https://applyjobs.org/",
+      "description": "Paid Chrome extension for Greenhouse, Lever and Ashby applications using a candidate's resume and reviewed screening answers. Pauses for human checks, skips no-AI pledges by default. No interview guarantees. Starts at $9/20 credits, one per confirmed application, no subscription. Submitted by the maker's AI assistant, not an independent review.",
+      "owner": "Nelson Lai (ApplyJobs)",
+      "submitted_by": "ApplyJobs maker's AI assistant",
+      "submitted_on": "Thu, 19 Nov 2026 18:11:30 GMT"
     }
   ],
   "people": [
